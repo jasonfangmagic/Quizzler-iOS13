@@ -18,6 +18,10 @@ When you have a struct that has a function. It's called a method
 Use the same struct and modify it
 <img width="761" alt="image" src="https://github.com/jasonfangmagic/Quizzler-iOS13/assets/87825019/09c34b73-2194-4f78-a315-4e0be3e3efd4">
 
+# 6. Simpler Version for Initializer
+<img width="806" alt="image" src="https://github.com/jasonfangmagic/Quizzler-iOS13/assets/87825019/b789deb4-febf-4ecb-bf2e-9e5c97363bab">
+
+
 
 
 
