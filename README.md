@@ -9,6 +9,8 @@ Append new property
 When you have a struct that has a function. It's called a method
 <img width="610" alt="image" src="https://github.com/jasonfangmagic/Quizzler-iOS13/assets/87825019/09a882e5-29b1-456d-88f5-cac5d6c49626">
 <img width="455" alt="image" src="https://github.com/jasonfangmagic/Quizzler-iOS13/assets/87825019/aec2f048-a624-4f82-a4d6-0ac67b3523c9">
+<img width="766" alt="image" src="https://github.com/jasonfangmagic/Quizzler-iOS13/assets/87825019/26a78107-8a99-48bc-98dc-f810673fbdcc">
+
 
 
 
