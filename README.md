@@ -14,6 +14,11 @@ When you have a struct that has a function. It's called a method
 # 4. Struct
 <img width="907" alt="image" src="https://github.com/jasonfangmagic/Quizzler-iOS13/assets/87825019/0c8bc6df-c437-47e8-ad65-0667d3d5a85d">
 
+# 5. Initializer
+Use the same struct and modify it
+<img width="761" alt="image" src="https://github.com/jasonfangmagic/Quizzler-iOS13/assets/87825019/09c34b73-2194-4f78-a315-4e0be3e3efd4">
+
+
 
 
 
