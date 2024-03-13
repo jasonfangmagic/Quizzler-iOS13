@@ -26,6 +26,14 @@ No need to change the View or Controller. Only need to change the Model<br>
 Controller is only responsible for telling the other components what to do and respond to change the other components. 
 <img width="755" alt="image" src="https://github.com/jasonfangmagic/Quizzler-iOS13/assets/87825019/db2a5bad-d933-411f-b139-b40f51f5d36f">
 
+# 8. Parameter Name
+When we say there shouldn't be a parameter name
+<img width="486" alt="image" src="https://github.com/jasonfangmagic/Quizzler-iOS13/assets/87825019/58f8993d-6cad-43ea-8a65-056a9a580ea2">
+Don't need the parameter name anymore
+<img width="683" alt="image" src="https://github.com/jasonfangmagic/Quizzler-iOS13/assets/87825019/64f9a72c-8bb9-4729-8b15-e920caf964d9">
+<img width="430" alt="image" src="https://github.com/jasonfangmagic/Quizzler-iOS13/assets/87825019/42665e35-d2e7-4a34-bae4-d303ba81275a">
+
+
 
 
 
