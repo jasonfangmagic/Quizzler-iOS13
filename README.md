@@ -21,6 +21,8 @@ Use the same struct and modify it
 # 6. Simpler Version for Initializer
 <img width="806" alt="image" src="https://github.com/jasonfangmagic/Quizzler-iOS13/assets/87825019/b789deb4-febf-4ecb-bf2e-9e5c97363bab">
 
+# 7. MVC Pattern
+<img width="755" alt="image" src="https://github.com/jasonfangmagic/Quizzler-iOS13/assets/87825019/db2a5bad-d933-411f-b139-b40f51f5d36f">
 
 
 
