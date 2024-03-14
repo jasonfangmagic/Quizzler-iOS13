@@ -7,7 +7,12 @@ struct Town {
     func fortify(){
         print("Defences increased")
     }
+    
+    mutating func harvestRice(){
+        resources ["Rice"] = 100
+    }
 }
+    
 
 var myTown = Town()
 
@@ -16,6 +21,8 @@ print(myTown.citizens)
 print("\(myTown.resources) has \(myTown.resources["Grain"]!) bags of grains")
 
 myTown.citizens.append("Keanu Reeves")
+
+
 print(myTown.citizens)
 
 myTown.fortify()
