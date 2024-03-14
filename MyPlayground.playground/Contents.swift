@@ -66,3 +66,27 @@ var anotherTown2 = Town3(name: "Nameless Island", citizens: ["Tom Hanks"], resou
 var ghostTown = Town3(name: "Ghosty", citizens: [], resources: ["Tumblewee": 1])
 
 ghostTown.fortify()
+
+
+// Functions
+
+//1. Functions with code
+func greeting(){
+    print("Hello")
+}
+greeting()
+//2. Functions with Inputs
+func greeting2(name: String){
+    print("Hello \(name)")
+}
+greeting2(name: "Jason")
+// 3. Functions with outputs
+func greeting3(name: String) -> Bool {
+    if name == "Jason"{
+        return true
+    } else {
+        return false
+    }
+}
+var doorsShouldOpen = greeting3(name: "Jaosn")
+print(doorsShouldOpen)
