@@ -37,6 +37,14 @@ Don't need the parameter name anymore<br>
 If the function has an output, it will return the value of the output
 <img width="908" alt="image" src="https://github.com/jasonfangmagic/Quizzler-iOS13/assets/87825019/3a4bb0ee-4602-4939-9706-550578b0727e">
 
+# 10. Immutability
+<img width="889" alt="image" src="https://github.com/jasonfangmagic/Quizzler-iOS13/assets/87825019/b83ba243-9a79-4d51-b8b8-5742219f694e"> <br>
+<img width="823" alt="image" src="https://github.com/jasonfangmagic/Quizzler-iOS13/assets/87825019/0e8d2724-392a-4fc1-9002-fefd88870e7f">
+<img width="770" alt="image" src="https://github.com/jasonfangmagic/Quizzler-iOS13/assets/87825019/13372812-4648-4d32-9f36-3e6abae8930c">
+
+
+
+
 
 
 
