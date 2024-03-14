@@ -33,6 +33,11 @@ Don't need the parameter name anymore<br>
 <img width="683" alt="image" src="https://github.com/jasonfangmagic/Quizzler-iOS13/assets/87825019/64f9a72c-8bb9-4729-8b15-e920caf964d9"><br>
 <img width="430" alt="image" src="https://github.com/jasonfangmagic/Quizzler-iOS13/assets/87825019/42665e35-d2e7-4a34-bae4-d303ba81275a">
 
+# 9. Functions Types
+If the function has an output, it will return the value of the output
+<img width="908" alt="image" src="https://github.com/jasonfangmagic/Quizzler-iOS13/assets/87825019/3a4bb0ee-4602-4939-9706-550578b0727e">
+
+
 
 
 
